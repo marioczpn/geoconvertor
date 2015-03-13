@@ -1,20 +1,22 @@
 									README
 ##-----------------------------------------------------------------------------##
 # GEOCONVERTOR JAVA API version BETA - Converts coordinate latitude/longitude.
-# http://code.google.com/p/geoconvertor/
-#
-#Created: 07/05/2010
-#
-#---------------------------------Contributor------------------------------------
-#Mario C. Ponciano - a.k.a Razec 
-#mrazec@gmail.com
-##-----------------------------------------------------------------------------##
+# https://github.com/razec/geoconvertor
+
 
 News: (For news, check CHANGELOG file) and http://code.google.com/p/geoconvertor/
 
 What is this?
 
-The geoconvertor it's API JAVA created to converter coordinates using complex geodesic equation. 
+The geoconvertor it's API JAVA created to convert coordinates using complex geodesic equation. 
+
+Supporting three conversions:
+
+	Decimal Coordinate to UTM
+		Easily convert between latitude/longitude, Universal Transverse Mercator (UTM) using DATUM: SAD69 and WGS-84.
+	DMS (Degrees, Minutes, Seconds) to Decimal Degree
+	
+	Decimal Degree to DMS (Degrees, Minutes, Seconds)
 
 Pre-requisites:
 
@@ -39,14 +41,6 @@ geoToUTM(decimal_latitude, decimal_longitude, datum, central_meridian);
 decToDMS(decimal_coordinate);
 dmsToDec(dms_coordinate); 
 
-More Information: http://code.google.com/p/geoconvertor/wiki/How_it_Works_eng
+More Information: https://github.com/razec/geoconvertor/wiki
 
-License
-
-This program is free software; you can redistribute it and/or                
-modify it under the terms of the GNU General Public License                  
-as published by the Free Software Foundation; either version 3               
-of the License, or (at your option) any later version.  
-	 
-More Information: http://www.gnu.org/licenses/gpl.txt
 
