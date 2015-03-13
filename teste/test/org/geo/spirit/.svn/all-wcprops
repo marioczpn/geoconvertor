@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/25/trunk/GEOConvertor/teste/test/org/geo/spirit
+END
+Datum.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/18/trunk/GEOConvertor/teste/test/org/geo/spirit/Datum.java
+END
+GEOConvertor.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/18/trunk/GEOConvertor/teste/test/org/geo/spirit/GEOConvertor.java
+END
+TestGEOConvertor.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/18/trunk/GEOConvertor/teste/test/org/geo/spirit/TestGEOConvertor.java
+END
+INF.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/22/trunk/GEOConvertor/teste/test/org/geo/spirit/INF.java
+END
+Coefficient.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/24/trunk/GEOConvertor/teste/test/org/geo/spirit/Coefficient.java
+END
+CalcJ2me.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/24/trunk/GEOConvertor/teste/test/org/geo/spirit/CalcJ2me.java
+END
+Calc.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/25/trunk/GEOConvertor/teste/test/org/geo/spirit/Calc.java
+END
+GeoPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/18/trunk/GEOConvertor/teste/test/org/geo/spirit/GeoPoint.java
+END
+Ellipsoid.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/19/trunk/GEOConvertor/teste/test/org/geo/spirit/Ellipsoid.java
+END
+TestGeoPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/18/trunk/GEOConvertor/teste/test/org/geo/spirit/TestGeoPoint.java
+END
+IConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/18/trunk/GEOConvertor/teste/test/org/geo/spirit/IConstants.java
+END
+CalcJ2se.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/24/trunk/GEOConvertor/teste/test/org/geo/spirit/CalcJ2se.java
+END

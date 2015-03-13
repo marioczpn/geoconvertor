@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/GEOConvertor/src/org/geoconvertor/datum
+END
+SAD69.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/GEOConvertor/src/org/geoconvertor/datum/SAD69.java
+END
+Datum.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/GEOConvertor/src/org/geoconvertor/datum/Datum.java
+END
+WGS84.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6/trunk/GEOConvertor/src/org/geoconvertor/datum/WGS84.java
+END

@@ -1,0 +1,9 @@
+/*	Douglas Hiura Longo
+*	douglashiura@gmail.com
+*	java.inf.ufsc.br/dh
+*	Santa Catarina, 22 de Setembro de 2010, 19:48
+*/
+Observações:
+- Este Source folder(teste) é pra separa os códigos dos testes e os códigos da implementação.
+- O package dos testes começa em test.org.* e não em org.* para as classes de teste e 
+	da implementação não ficarem nos mesmos pacotes, preservando os modificadores.

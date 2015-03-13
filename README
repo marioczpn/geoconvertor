@@ -1,0 +1,52 @@
+									README
+##-----------------------------------------------------------------------------##
+# GEOCONVERTOR JAVA API version BETA - Converts coordinate latitude/longitude.
+# http://code.google.com/p/geoconvertor/
+#
+#Created: 07/05/2010
+#
+#---------------------------------Contributor------------------------------------
+#Mario C. Ponciano - a.k.a Razec 
+#mrazec@gmail.com
+##-----------------------------------------------------------------------------##
+
+News: (For news, check CHANGELOG file) and http://code.google.com/p/geoconvertor/
+
+What is this?
+
+The geoconvertor it's API JAVA created to converter coordinates using complex geodesic equation. 
+
+Pre-requisites:
+
+Java:
+- Java Runtime Environment Version 5.0
+
+How to install?
+
+1) Adding geoconvertor-v0.x.jar api to the project.
+
+2) Import
+import org.geoconvertor.datum.Datum;
+import org.geoconvertor.utm.GEOConvertor;
+
+Construct an object:
+
+GEOConvertor gcv = new GEOConvertor(); 
+
+Call the methods:
+
+geoToUTM(decimal_latitude, decimal_longitude, datum, central_meridian);
+decToDMS(decimal_coordinate);
+dmsToDec(dms_coordinate); 
+
+More Information: http://code.google.com/p/geoconvertor/wiki/How_it_Works_eng
+
+License
+
+This program is free software; you can redistribute it and/or                
+modify it under the terms of the GNU General Public License                  
+as published by the Free Software Foundation; either version 3               
+of the License, or (at your option) any later version.  
+	 
+More Information: http://www.gnu.org/licenses/gpl.txt
+

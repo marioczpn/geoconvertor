@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/16/trunk/GEOConvertor/src/org/geoconvertor/me
+END
+GEOConvertor.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9/trunk/GEOConvertor/src/org/geoconvertor/me/GEOConvertor.java
+END
+WGS84.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9/trunk/GEOConvertor/src/org/geoconvertor/me/WGS84.java
+END
+AbstractCoefficient.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/16/trunk/GEOConvertor/src/org/geoconvertor/me/AbstractCoefficient.java
+END
+IConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9/trunk/GEOConvertor/src/org/geoconvertor/me/IConstants.java
+END
+SAD69.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9/trunk/GEOConvertor/src/org/geoconvertor/me/SAD69.java
+END
+AbstractEllipsoid.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9/trunk/GEOConvertor/src/org/geoconvertor/me/AbstractEllipsoid.java
+END

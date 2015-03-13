@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/GEOConvertor/src/org/geoconvertor/ellipsoid
+END
+AbstractCoefficient.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6/trunk/GEOConvertor/src/org/geoconvertor/ellipsoid/AbstractCoefficient.java
+END
+AbstractEllipsoid.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/6/trunk/GEOConvertor/src/org/geoconvertor/ellipsoid/AbstractEllipsoid.java
+END

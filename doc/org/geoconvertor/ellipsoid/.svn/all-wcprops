@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/GEOConvertor/doc/org/geoconvertor/ellipsoid
+END
+AbstractEllipsoid.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/6/trunk/GEOConvertor/doc/org/geoconvertor/ellipsoid/AbstractEllipsoid.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6/trunk/GEOConvertor/doc/org/geoconvertor/ellipsoid/package-tree.html
+END
+AbstractCoefficient.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6/trunk/GEOConvertor/doc/org/geoconvertor/ellipsoid/AbstractCoefficient.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/6/trunk/GEOConvertor/doc/org/geoconvertor/ellipsoid/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6/trunk/GEOConvertor/doc/org/geoconvertor/ellipsoid/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/6/trunk/GEOConvertor/doc/org/geoconvertor/ellipsoid/package-summary.html
+END
