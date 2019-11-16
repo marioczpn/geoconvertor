@@ -37,7 +37,7 @@ public interface IConstants {
 	 */
 	public static final double K0 = 0.999995; // Scale Factor
 
-	public static final char DEGREE = '°';
+	public static final char DEGREE = '\u00BA';
 	public static final char MINUTE = '\'';
 	public static final char SECOND = '"';
 	public static final char NORTH = 'N';
