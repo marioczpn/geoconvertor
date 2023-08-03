@@ -1,7 +1,5 @@
 # :earth_americas: GeoConvertor Java API 
-![version](https://img.shields.io/badge/version-BETA-blue)
-![language](https://img.shields.io/badge/language-Java-orange)
-[![license](https://img.shields.io/badge/license-MIT-green)](https://github.com/razec/geoconvertor/blob/main/LICENSE)
+
 ## Converts coordinate latitude/longitude
 
 **:rocket: [Project Homepage](https://github.com/razec/geoconvertor)**
