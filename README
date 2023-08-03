@@ -1,46 +1,53 @@
-									README
-##-----------------------------------------------------------------------------##
-# GEOCONVERTOR JAVA API version BETA - Converts coordinate latitude/longitude.
-# https://github.com/razec/geoconvertor
+# :earth_americas: GeoConvertor Java API 
+![version](https://img.shields.io/badge/version-BETA-blue)
+![language](https://img.shields.io/badge/language-Java-orange)
+[![license](https://img.shields.io/badge/license-MIT-green)](https://github.com/razec/geoconvertor/blob/main/LICENSE)
+## Converts coordinate latitude/longitude
 
+**:rocket: [Project Homepage](https://github.com/razec/geoconvertor)**
 
-News: (For news, check CHANGELOG file) and http://code.google.com/p/geoconvertor/
+**News:** For recent updates, check [CHANGELOG](https://github.com/razec/geoconvertor/blob/main/CHANGELOG.md) and [Google Code page](http://code.google.com/p/geoconvertor/)
 
-What is this?
+## :question: What is this?
 
-The geoconvertor it's API JAVA created to convert coordinates using complex geodesic equation. 
+GeoConvertor is a Java API designed to convert geographic coordinates using complex geodesic equations. It supports three types of conversions:
 
-Supporting three conversions:
+1. **Decimal Coordinate to UTM:** Convert between latitude/longitude, Universal Transverse Mercator (UTM) using DATUM: SAD69 and WGS-84.
+2. **DMS (Degrees, Minutes, Seconds) to Decimal Degree**
+3. **Decimal Degree to DMS (Degrees, Minutes, Seconds)**
 
-	Decimal Coordinate to UTM
-		Easily convert between latitude/longitude, Universal Transverse Mercator (UTM) using DATUM: SAD69 and WGS-84.
-	DMS (Degrees, Minutes, Seconds) to Decimal Degree
-	
-	Decimal Degree to DMS (Degrees, Minutes, Seconds)
+## :gear: Pre-requisites
 
-Pre-requisites:
+- Java Runtime Environment Version 5.0 or later
 
-Java:
-- Java Runtime Environment Version 5.0
+## :hammer_and_wrench: Installation
 
-How to install?
+1) Add `geoconvertor-v0.x.jar` API to your project.
 
-1) Adding geoconvertor-v0.x.jar api to the project.
-
-2) Import
+2) Import necessary classes:
+```java
 import org.geoconvertor.datum.Datum;
 import org.geoconvertor.utm.GEOConvertor;
+```
+:computer: Usage
+```java
 
-Construct an object:
+Construct a GEOConvertor object:
 
-GEOConvertor gcv = new GEOConvertor(); 
+GEOConvertor gcv = new GEOConvertor();
+```
+Call the appropriate methods:
 
-Call the methods:
+For Decimal to UTM conversion:
+```java
+gcv.geoToUTM(decimal_latitude, decimal_longitude, datum, central_meridian);
+```
 
-geoToUTM(decimal_latitude, decimal_longitude, datum, central_meridian);
-decToDMS(decimal_coordinate);
-dmsToDec(dms_coordinate); 
-
-More Information: https://github.com/razec/geoconvertor/wiki
-
-
+For Decimal to DMS conversion:
+```java
+gcv.decToDMS(decimal_coordinate);
+```
+For DMS to Decimal conversion:
+```java
+gcv.dmsToDec(dms_coordinate);
+```
